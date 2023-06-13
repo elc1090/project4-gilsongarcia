@@ -18,9 +18,9 @@ Gilson Garcia
 
 #### Tecnologias
 
-React - Frontend
-AdonisJs - Backend
-Bootstrap
+- React - Frontend
+- AdonisJs - Backend
+- Bootstrap
 
 #### Ambiente de desenvolvimento
 
