@@ -27,7 +27,7 @@ Bootstrap
 VSCode
 #### Código-fonte
 
-O código fonte do trabalho está armazenado em outro repositório, seguindo o link abaixo:
+O código fonte do trabalho está armazenado em outro repositório, seguindo o link:
 https://github.com/elc1090/project3-gilson
 
 
